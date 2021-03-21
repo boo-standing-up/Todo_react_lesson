@@ -16,6 +16,7 @@ const App = () => {
 
       <button onClick={onClickUp}>カウントアップ</button>
       <p>{num}</p>
+      <p>＼(^o^)／</p>
     </>
   );
 };
