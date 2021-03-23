@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ColorfulMessege from "./components/ColorfulMessege";
+import { ColorfulMessege } from "./components/ColorfulMessege";
 
 const App = () => {
   const [num, setNum] = useState(0);
